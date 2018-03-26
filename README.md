@@ -1,6 +1,6 @@
 # FacialRecognition
 
-This contains a python script for real time face detection usin python opencv.
+This contains a python script for real time face detection using python opencv.
 
 the script accesses the webcam and detects any face front and marks a black rectangle on the face
 
